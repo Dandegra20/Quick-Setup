@@ -20,7 +20,7 @@ sudo bash quicksetup.sh
 O ejecútalo directamente sin clonar:
 
 ```bash
-sudo bash <(curl -fsSL https://raw.githubusercontent.com/tu-usuario/quicksetup/main/quicksetup.sh)
+sudo bash <(curl -fsSL https://raw.githubusercontent.com/Dandegra20/quicksetup/main/quicksetup.sh)
 ```
 
 ---

@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/Dandegra20/Quick-Setup.git
-cd quicksetup
+cd Quick-Setup
 chmod +x quicksetup.sh
 sudo bash quicksetup.sh
 ```
